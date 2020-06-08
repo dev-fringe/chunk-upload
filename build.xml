@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<project name="chunked-upload" >
+  <target name="junit3">
+    <exec executable="cmd" >
+      <arg value="/C"/>
+      <arg value="java"/>
+    </exec>
+  </target>
+</project>
